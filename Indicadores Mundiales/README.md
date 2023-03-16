@@ -1,4 +1,5 @@
-## Proyectos de PowerBI
+## **Indicadores Mundiales**
 
-En este repositorio, presento algunos de mis proyectos iniciales en PowerBI.
+Este proyecto presenta algunas métricas principales de los distintos paises del mundo.
+
 
