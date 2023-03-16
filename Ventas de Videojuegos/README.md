@@ -1,5 +1,3 @@
-![imagen](https://blog.ida.cl/wp-content/uploads/sites/5/2020/05/ida-uxvideojuegos-blog.png)
-
 # **Venta de Videojuegos**  
 
 **Objetivo:**  
