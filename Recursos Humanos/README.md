@@ -6,4 +6,8 @@ Visualizar indicadores de Colaboradores, Sueldos y Desempeño mediante un report
 
 ### **Dashboard:**
 
-![dashboard](https://raw.githubusercontent.com/MirandaCR/PowerBI/main/Ventas%20de%20Videojuegos/Imagenes/Dash_Videogames.png)
+![dashboard](https://github.com/MirandaCR/PowerBI/blob/main/Recursos%20Humanos/Imagenes/1_Colaboradores.png)
+
+![dashboard1](https://github.com/MirandaCR/PowerBI/blob/main/Recursos%20Humanos/Imagenes/2_Sueldos.png)
+
+![dashboard2](https://github.com/MirandaCR/PowerBI/blob/main/Recursos%20Humanos/Imagenes/3_Desempenio.png)
